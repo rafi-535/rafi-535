@@ -30,6 +30,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <a href="https://buildintelligence.medium.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" /></a>
+  <a href="https://instagram.com/yourinsta" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://leetcode.com/yourleetcode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" /></a>
 </p>
 
 ---
