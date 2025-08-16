@@ -36,7 +36,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="www.linkedin.com/in/rafimohd535" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rafimohd535/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
   <a href="mailto:mohdrafi9706@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 </p>
 
