@@ -25,11 +25,10 @@
 - 🧠 **[Deep Learning Projects](https://github.com/rafi-535/Image-Classification-Using-Transfer-Learning-Reinforcement-Learning)** – Neural networks & CNNs for image classification using transfer learning and reinforcement learning  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" height="160"/>
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafimohd535/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="mailto:mohdrafi9706@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://buildintelligence.medium.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" width="40" /></a>
   <a href="https://instagram.com/yourinsta" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
   <a href="https://leetcode.com/yourleetcode" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" /></a>
@@ -37,12 +36,17 @@
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafimohd535/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="mailto:mohdrafi9706@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-</p>
+## 📊 GitHub Stats & Languages
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdrafi's&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdrafi's&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
 ---
+
+
 
 ⭐️ *“Data is the new oil, but insights are the new currency.”*  
