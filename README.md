@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Machine Learning, Deep Learning & Data Engineering**  
+- 🌱 I’m currently working as a Data Analyst,have a good exposure to **Machine Learning, Deep Learning, NLP, LLM, RAG**  
 - 💼 Passionate about turning **data into insights and AI-driven solutions**  
 - 💬 Ask me about **Python | Data Science | Machine Learning | SQL | AI**  
 - 📫 Reach me at **mohdrafi9706@gmail.com**  
