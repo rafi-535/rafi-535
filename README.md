@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohd Rafi</h1>
-<h3 align="center">🚀 Passionate Data Scientist | Machine Learning Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀 Data Scientist | Analyst | ML & AI Engineer | Generative AI (LLMs, RAG) | Predictive Modeling | MLOps | Azure ML</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently working as a **Data Analyst** ,have a good exposure to **Machine Learning, Deep Learning, NLP, LLM, RAG**  
+- 🌱 I’m currently working as a **Data Sceintist\Analyst** ,have a good exposure to **Machine Learning, Deep Learning, NLP, LLM, RAG, Azure ML**  
 - 💼 Passionate about turning **data into insights and AI-driven solutions**  
 - 💬 Ask me about **Python | Data Science | Machine Learning | SQL | AI**  
 - 📫 Reach me at **mohdrafi9706@gmail.com**  
