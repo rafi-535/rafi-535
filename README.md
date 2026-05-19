@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Rafi</h1>
-<h3 align="center">🚀 Data Scientist | Analyst | ML & AI Engineer | Generative AI (LLMs, RAG) | Predictive Modeling | MLOps | Azure ML</h3>
+<h3 align="center">🚀 AI & ML Engineer | Data Scientist | Generative AI (LLMs, RAG) | Predictive Modeling | MLOps | Azure ML</h3>
 
 ---
 
