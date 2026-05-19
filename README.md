@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently working as a **Data Sceintist\Analyst** ,have a good exposure to **Machine Learning, Deep Learning, NLP, LLM, RAG, Azure ML**  
+- 🌱 I’m currently working as a **AI & ML Engineer** ,have a good exposure to **Machine Learning, Deep Learning, NLP, LLM, RAG, Azure ML**  
 - 💼 Passionate about turning **data into insights and AI-driven solutions**  
 - 💬 Ask me about **Python | Data Science | Machine Learning | SQL | AI**  
 - 📫 Reach me at **mohdrafi9706@gmail.com**  
